@@ -1,0 +1,23 @@
+body{
+    background-color: ;
+}
+.food a{
+    text-decoration: none;
+}
+.food {
+    position: absolute; 
+    margin-left: 75%;
+    margin-top: 28%;
+}
+h1{
+    margin-left: 40%;
+}
+img{
+width: 50%;
+height: 50%;
+margin-left: 25%;
+margin-bottom: 15%;
+}
+h1{
+    margin-right: 10%;
+} 
